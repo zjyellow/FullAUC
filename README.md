@@ -22,6 +22,7 @@ here provided five remote sensing datasets:[google drive](https://drive.google.c
 # method
 FullAUC & FullAUC-NF: `./loss/FullAUC.py`  
 FullAUC-F : `./loss/FullAUC2.py`
+comparison loss functions also list in `loss` folder.
 
 # usage
 ref `fauc_train.sh`

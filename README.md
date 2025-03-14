@@ -2,7 +2,8 @@
 The offitial implement of "Full AUC Optimization for Open Set Recognition in Remote Sensing Images"
 
 # env
-CUDA==11.7
+
+`CUDA==11.7
 GPU Memory >= 6GB
 
 torch==1.13.0+cu117
@@ -12,7 +13,7 @@ numpy==1.23.0
 pandas==1.3.5
 scipy==1.9.0
 scikit-learn==1.0.2
-scikit-image==0.24.0
+scikit-image==0.24.0`
 
 ps: We suggest that the Numpy version should < 2 in this code.
 

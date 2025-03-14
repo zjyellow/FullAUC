@@ -16,6 +16,9 @@ scikit-image==0.24.0
 ```
 ps: We suggest that the Numpy version should < 2 in this code.
 
+# dataset
+here provided five remote sensing datasets:[google drive](https://drive.google.com/file/d/1eWosXC8ktq0lfLGHemcG1YkXlcvwCM8o/view?usp=sharing)
+
 # method
 FullAUC & FullAUC-NF: `./loss/FullAUC.py`  
 FullAUC-F : `./loss/FullAUC2.py`

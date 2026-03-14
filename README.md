@@ -28,7 +28,7 @@ comparison loss functions also list in `loss` folder.
 ref `fauc_train.sh`
 
 # cite
-please cite us if you used our code or our proposed loss function in your work.
+please cite us if you used our code, dataset or our proposed method in your work.
 ```
 @ARTICLE{11343875,
   author={Zhang, Xiao-Lei and Huang, Zijun and Zhang, Jichao and Cao, Zhe and Zhao, Lei and Xu, Menglong and Liu, Cheng-Lin},

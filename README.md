@@ -27,9 +27,24 @@ comparison loss functions also list in `loss` folder.
 # usage
 ref `fauc_train.sh`
 
+# cite
+please cite us if you used our code or our proposed loss function in your work.
+```
+@ARTICLE{11343875,
+  author={Zhang, Xiao-Lei and Huang, Zijun and Zhang, Jichao and Cao, Zhe and Zhao, Lei and Xu, Menglong and Liu, Cheng-Lin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={FullAUC Optimization for Open-Set Recognition in Remote Sensing Images}, 
+  year={2026},
+  volume={64},
+  number={},
+  pages={1-13},
+  keywords={Remote sensing;Prototypes;Optimization;Image classification;Training;Classification algorithms;Image recognition;Accuracy;Reviews;Deep learning;AUC optimization;background class regularization;open-set recognition (OSR);remote sensing image classification},
+  doi={10.1109/TGRS.2026.3652236}}
+```
+
+
 # acknowledgement
 Our codes are based on the repositories [Adversarial Reciprocal Points Learning for Open Set Recognition (TPAMI'21)](https://github.com/iCGY96/ARPL) and [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://github.com/wang22ti/OpenAUC)
-
 
 
 
